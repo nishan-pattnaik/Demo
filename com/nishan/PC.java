@@ -2,7 +2,7 @@ package com.nishan;
 
 import java.util.LinkedList;
 import java.util.List;
-//cc
+
 public class PC {
 	private List<Integer>li = new LinkedList<Integer>();
 	public int CAPACITY = 1;
